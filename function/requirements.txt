@@ -1,0 +1,13 @@
+python-telegram-bot==20.6
+functions-framework==3.*
+pinecone[grpc]==5.4.2
+numpy
+sentence-transformers==2.2.2
+huggingface-hub==0.19.4
+langchain_pinecone==0.2.2
+langchain==0.3.17
+langchain-community==0.3.16
+langchain-core==0.3.37
+langchain-google-genai==2.0.10
+google-generativeai==0.8.4
+google-ai-generativelanguage==0.6.15
