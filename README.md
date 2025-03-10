@@ -19,26 +19,6 @@ A Retrieval-Augmented Generation (RAG) powered Telegram bot built with Python, L
 3. Google Gemini API Key
 4. Pinecone API Key
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/taskforce-telegram-bot.git
-   cd taskforce-telegram-bot
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r function/requirements.txt
-   ```
-
-3. Set up environment variables:
-   ```bash
-   export TELEGRAM_BOT_TOKEN="your_telegram_bot_token"
-   export GEMINI_API_KEY="your_gemini_api_key"
-   export PINECONE_API_KEY="your_pinecone_api_key"
-   ```
-
 ### Document Processing
 
 1. Place your documents in the `documents` folder (supports PDF, TXT, and CSV)
